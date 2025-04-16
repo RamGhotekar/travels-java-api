@@ -69,15 +69,4 @@ GitHub Profile
 
 ---
 
-## 📌 What to Do Next?
-
-1. Open your `README.md` file in VS Code or Notepad++
-2. Replace everything with the content above
-3. Save the file
-4. Push to GitHub:
-
-```bash
-git add README.md
-git commit -m "Updated README to personalize project"
-git push
 
